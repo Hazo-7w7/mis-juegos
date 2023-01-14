@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background: linear-gradient(rgb(0, 221, 255)0%,rgb(255, 0, 238));
+}
+h1{
+    font-size: 40px;
+    font-family:cursive;
+    font-weight: 300;
+}
+
+#a{
+    font-family: cursive;
+}
+
+#g{
+    font-family: cursive;
+}
+
+#c{
+    font-family: cursive;
+}
+
+.line{
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+}
